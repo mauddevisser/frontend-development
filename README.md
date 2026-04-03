@@ -29,4 +29,5 @@ In deze repository vind je een fanpage met elementen, zoals:
 ├── opdrachten/     # Oefeningen en opdrachten
 ├── projecten/      # Grotere projecten
 ├── assets/         # Afbeeldingen en styles
-└── index.html      # Startpunt (indien aanwezig)
+└── index.html      # Startpunt
+└── contact.html      # Contact pagina 
