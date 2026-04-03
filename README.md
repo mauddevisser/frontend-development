@@ -24,6 +24,8 @@ In deze repository vind je een fanpage met elementen, zoals:
 ## Projectstructuur
 
 
+```bash
+.
 ├── opdrachten/     # Oefeningen en opdrachten
 ├── projecten/      # Grotere projecten
 ├── assets/         # Afbeeldingen en styles
