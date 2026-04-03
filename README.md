@@ -21,13 +21,18 @@ In deze repository vind je een fanpage met elementen, zoals:
   
 ---
 
-## Projectstructuur
+## Installatie
 
+Volg deze stappen om de frontend lokaal te draaien:
 
-```bash
-.
-├── opdrachten/     # Oefeningen en opdrachten
-├── projecten/      # Grotere projecten
-├── assets/         # Afbeeldingen en styles
-└── index.html      # Startpunt
-└── contact.html      # Contact pagina 
+# Clone de repository
+git clone https://github.com/mauddevisser/frontend-development.git
+
+# Ga naar de projectmap
+cd frontend-development
+
+# Installeer dependencies
+npm install
+
+# Start de server
+npm run dev
