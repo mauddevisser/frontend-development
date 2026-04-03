@@ -23,7 +23,7 @@ In deze repository vind je een fanpage met elementen, zoals:
 
 ## Projectstructuur
 
-.
+
 ├── opdrachten/     # Oefeningen en opdrachten
 ├── projecten/      # Grotere projecten
 ├── assets/         # Afbeeldingen en styles
